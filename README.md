@@ -6,3 +6,7 @@ Sou **estudante do SENAI**, cursando **Técnico em Desenvolvimento de Sistemas (
 Iniciante na tecnologia e sempre buscando aprender mais sobre programação e desenvolvimento.
 
 ![Coding](https://media1.tenor.com/m/OjVjDqcWaIoAAAAd/stray-coding.gif)
+
+
+## Contato 📫
+- 📧 Email: *[filipemeirelles210@gmail.com]*  
